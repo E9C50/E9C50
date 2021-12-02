@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=E9C50&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=E9C50&show_icons=true&theme=dracula" />
 
 # 你好，世界！👋👋👋
 ~ 一名在上海的00后码农 ✨   
