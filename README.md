@@ -10,7 +10,8 @@
   - 玩过KaliLinux渗透 :unlock:  
   - 前端Vue（想学React但没时间） :bar_chart:  
   - 游戏开发（UE4/5，Blender建模等） :video_game:  
-  - Python pandas+numpy做过数据分析 :page_facing_up:  
+  - Python爬虫和自动化 :snail:  
+  - pandas + numpy做过数据分析 :page_facing_up:  
   - 计算机视觉（主要是最近拿来识别游戏画面写AI） :eyes:  
   - 等等......  
 
