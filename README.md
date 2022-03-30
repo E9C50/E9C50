@@ -15,7 +15,7 @@
   - 计算机视觉（主要是最近拿来识别游戏画面写AI） :eyes:  
   - 等等......  
 
-~ 然后最近在尝试基于UE做一款独立游戏 :video_game: 
+~ 然后最近在尝试基于UE做一款独立游戏 :video_game:  
 ~ 反正学过的想学的很广，当然也都很浅，兴趣爱好而已，需要时能快速上手就行 :octocat:  
 ~ Emmm瞎写了一堆，不管怎样继续努力吧 :muscle::muscle::muscle:
 ## 最后别忘了一键三连（哦不是...点个Star + Follow啦，感谢:pray::pray::pray:）
